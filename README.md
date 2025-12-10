@@ -116,7 +116,7 @@ int main() {
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-10-17 184310](https://github.com/user-attachments/assets/1647b067-967f-4192-b0d2-734d10b488e3)
+<img width="608" height="177" alt="image" src="https://github.com/user-attachments/assets/11182893-947c-4868-909e-b246db500a84" />
 
 
 ## RESULT:
